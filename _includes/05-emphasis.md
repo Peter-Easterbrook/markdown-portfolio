@@ -11,3 +11,7 @@
 - Bootstrap 4
 - UX for Web Design
 - Accessibility
+- Sass
+- Git
+- React.js
+
