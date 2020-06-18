@@ -1,2 +1,2 @@
 # Peter Easterbrook
-## One Step Beyond Front End Web Development
+## One Step Front End Web Development
