@@ -15,3 +15,11 @@
 - Git
 - React.js
 
+## Qualifications
+- LinkedIn: Front End Developer
+- LinkedIn: Advanced CSS layouts & Grid
+- freeCodeCamp: JS Algorithms & Data Structures
+- freeCodeCamp: Responsive Web Design
+- Google: IT Support Specialization
+- Google: Python Crash Course
+
