@@ -7,4 +7,4 @@
 - Easterbrook Training: http://www.easterbrook.at/
 - One Step Beyond Web Development: http://www.easterbrook.at/webdev/webdev.html
 - FCC Markdown Previewer: https://codepen.io/PeterEasterbrook/pen/PoZbgmj
-- Fcc Random Quote Machine: https://codepen.io/PeterEasterbrook/pen/qBbNxMQ
+- FCC Random Quote Machine: https://codepen.io/PeterEasterbrook/pen/qBbNxMQ
