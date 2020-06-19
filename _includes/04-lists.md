@@ -5,6 +5,6 @@
 - [Italki Landing Page](http://www.easterbrook.at/italki/index.html)
 - [freeCodeCamp Challenge Page](http://www.easterbrook.at/portfolio/index.html)
 - [Easterbrook Training](http://www.easterbrook.at/)
-- [One Step Beyond Web Development](http://www.easterbrook.at/webdev/webdev.html)
+- [One Step Web Development](http://www.easterbrook.at/webdev/webdev.html)
 - [FCC React Markdown Previewer](https://codepen.io/PeterEasterbrook/pen/PoZbgmj)
 - [FCC React Random Quote Machine](https://codepen.io/PeterEasterbrook/pen/qBbNxMQ)
