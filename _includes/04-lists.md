@@ -1,5 +1,5 @@
 # Here is a list of my web challenges:
-- Robert Crumb Tribute Page: 
+- [Robert Crumb Tribute Page]
 (http://www.easterbrook.at/crumb/index.html)
 - Survey Form: http://www.easterbrook.at/survey/index.html
 - Technical Document Page: http://www.easterbrook.at/technical_doc/index.html
