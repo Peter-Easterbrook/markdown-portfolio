@@ -8,5 +8,5 @@
 - [One Step Web Development](http://www.easterbrook.at/webdev/webdev.html)
 - [FCC React Markdown Previewer](https://codepen.io/PeterEasterbrook/pen/PoZbgmj)
 - [FCC React Random Quote Machine](https://codepen.io/PeterEasterbrook/pen/qBbNxMQ)
-- [FCC React Drum Machine](https://codepen.io/PeterEasterbrook/pen/qBbRVwg)
+- [FCC React Drum Machine](https://codepen.io/PeterEasterbrook/pen/BajpPrN)
 - [FCC React Calculator](https://codepen.io/PeterEasterbrook/pen/dyGNErJ?editors=0110)
