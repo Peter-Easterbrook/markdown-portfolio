@@ -13,6 +13,7 @@
 - Accessibility
 - Sass
 - Git
+- Node.js
 - React.js
 - Pug
 - MongoDB
