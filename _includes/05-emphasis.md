@@ -17,6 +17,8 @@
 - React.js
 - Pug
 - MongoDB
+- Tailwind
+- Vue
 
 ## Qualifications
  - [LinkedIn: Front End Developer](https://github.com/Peter-Easterbrook/Repository/blob/master/CertificateOfCompletion_Become%20a%20Front-End%20Web%20Developer%20(1).pdf)
