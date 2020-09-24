@@ -1,6 +1,6 @@
 # Here is a list of my web challenges:
 - [Robert Crumb Tribute Page](http://www.easterbrook.at/crumb/index.html)
-- [A Survey Form: http](//www.easterbrook.at/survey/index.html)
+- [A Survey Form: http](http://www.easterbrook.at/survey/index.html)
 - [Technical Document Page](http://www.easterbrook.at/technical_doc/index.html)
 - [Italki Landing Page](http://www.easterbrook.at/italki/index.html)
 - [freeCodeCamp Challenge Page](http://www.easterbrook.at/portfolio/index.html)
