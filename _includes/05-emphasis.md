@@ -4,17 +4,16 @@
 
 ## Skills
 - HTML & Pug
-- CSS, Bootstrap 4 & Tailwind
+- CSS, Bootstrap 4, Sass & Tailwind
 - JavaScript
 - Python
 - Responsive Layout
 - Web Design UX
 - Accessibility
-- Sass
 - Git
 - Node.js
 - React.js
-- MongoDB
+- MongoDB & PostgreSQL
 - Vue.js
 - Cypress & Enzyme Testing
 - WebRTC
