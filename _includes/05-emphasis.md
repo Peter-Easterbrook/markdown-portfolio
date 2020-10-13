@@ -12,7 +12,7 @@
 - Accessibility
 - Git
 - Node.js
-- React.js
+- React.js (Redux, Saga & Hooks)
 - MongoDB & PostgreSQL
 - Vue.js
 - Cypress & Enzyme Testing
