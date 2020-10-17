@@ -28,4 +28,5 @@
  - [freeCodeCamp: Front End Libraries](https://www.freecodecamp.org/certification/fcc37ed5d52-0362-42c4-a9a0-fadf438edd30/front-end-libraries)
  - [Google: IT Support Specialization](https://www.youracclaim.com/badges/62085c98-af57-4278-b0b4-6586cf42ff0d/linked_in_profile)
  - [Google: Python Crash Course](https://www.coursera.org/account/accomplishments/certificate/VN3EKPL25CN7)
+ - [Udemy: Complete Guide to React](https://github.com/Peter-Easterbrook/Repository/blob/master/Udemy-React-2020.jpg)
 
