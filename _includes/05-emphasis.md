@@ -13,6 +13,7 @@
 - Git
 - Node.js
 - React.js (Redux, Saga & Hooks)
+- React Native
 - MongoDB & PostgreSQL
 - Vue.js
 - Cypress & Enzyme Testing
