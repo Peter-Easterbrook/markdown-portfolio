@@ -30,5 +30,5 @@
  - [Google: IT Support Specialization](https://www.youracclaim.com/badges/62085c98-af57-4278-b0b4-6586cf42ff0d/linked_in_profile)
  - [Google: Python Crash Course](https://www.coursera.org/account/accomplishments/certificate/VN3EKPL25CN7)
  - [Udemy: Complete Guide to React](https://github.com/Peter-Easterbrook/Repository/blob/master/Udemy-React-2020.jpg)
- - [Falvio Copes: JavaScript Bootcamp](https://github.com/Peter-Easterbrook/Repository/blob/master/copes-jsbootcamp.pdf)
+ - [Flavio Copes: JavaScript Bootcamp](https://github.com/Peter-Easterbrook/Repository/blob/master/copes-jsbootcamp.pdf)
 
