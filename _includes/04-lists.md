@@ -17,4 +17,5 @@
 - [Redux Calculator App](https://udemy-react-assignment-12.vercel.app/)
 - React Native + Expo Guess the Number Game App
 - React Native + Expo Meal Recipe App
-- React native + Expo Photo Location App
+- React Native + Expo Shop App
+- React Native + Expo Photo Location App
