@@ -1,4 +1,4 @@
-# Here is a list of my web challenges:
+# Here is a list of my web projects:
 - [Robert Crumb Tribute Page](http://www.easterbrook.at/crumb/index.html)
 - [A Survey Form](http://www.easterbrook.at/survey/index.html)
 - [Technical Document Page](http://www.easterbrook.at/technical_doc/index.html)
