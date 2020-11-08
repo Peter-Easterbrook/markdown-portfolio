@@ -12,5 +12,9 @@
 - [React Calculator App](https://react-calc-six.vercel.app/)
 - [React Burger Builder App](https://react-my-burger-5d9a7.web.app/)
 - [Vue Expense Tracker App](https://vue-bill-tracker.vercel.app/)
+- [Vue Mosaic Painter App](https://vue-mosaic.vercel.app/)
 - [Ionic Weight Tracker App](https://ionicweight.vercel.app/home)
 - [Redux Calculator App](https://udemy-react-assignment-12.vercel.app/)
+- [React Native + Expo Guess the Number Game App]
+- [React Native + Expo Meal Recipe App]
+- [React native + Expo Photo location App]
