@@ -31,4 +31,5 @@
  - [Google: Python Crash Course](https://www.coursera.org/account/accomplishments/certificate/VN3EKPL25CN7)
  - [Udemy: Complete Guide to React](https://github.com/Peter-Easterbrook/Repository/blob/master/Udemy-React-2020.jpg)
  - [Flavio Copes: JavaScript Bootcamp](https://github.com/Peter-Easterbrook/Repository/blob/master/copes-jsbootcamp.pdf)
+ - [Udemy: React Native - The Practical Guide 2020 Edition](https://www.udemy.com/certificate/UC-8a31bb56-f477-4fe6-bb31-6677a84652ed/)
 
