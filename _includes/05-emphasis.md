@@ -29,7 +29,7 @@
  - [freeCodeCamp: Front End Libraries](https://www.freecodecamp.org/certification/fcc37ed5d52-0362-42c4-a9a0-fadf438edd30/front-end-libraries)
  - [Google: IT Support Specialization](https://www.youracclaim.com/badges/62085c98-af57-4278-b0b4-6586cf42ff0d/linked_in_profile)
  - [Google: Python Crash Course](https://www.coursera.org/account/accomplishments/certificate/VN3EKPL25CN7)
- - [Udemy: Complete Guide to React](https://github.com/Peter-Easterbrook/Repository/blob/master/Udemy-React-2020.jpg)
+ - [Udemy: Complete Guide to React](https://www.udemy.com/certificate/UC-8a31bb56-f477-4fe6-bb31-6677a84652ed/)
  - [Flavio Copes: JavaScript Bootcamp](https://github.com/Peter-Easterbrook/Repository/blob/master/copes-jsbootcamp.pdf)
- - [Udemy: React Native - The Practical Guide 2020 Edition](https://www.udemy.com/certificate/UC-8a31bb56-f477-4fe6-bb31-6677a84652ed/)
+ - [Udemy: React Native - The Practical Guide 2020 Edition](https://www.udemy.com/certificate/UC-d68570d4-3b56-43c3-97d0-71d8524b56d6/)
 
