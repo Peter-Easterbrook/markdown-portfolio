@@ -1,4 +1,4 @@
-
+<script src="assets/js/image-shadow.min.js"></script>
 ---
 layout: default
 ---
