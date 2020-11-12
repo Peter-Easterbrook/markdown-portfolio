@@ -22,14 +22,15 @@
 - Firebase
 
 ## Qualifications
- - [LinkedIn: Front End Developer](https://github.com/Peter-Easterbrook/Repository/blob/master/CertificateOfCompletion_Become%20a%20Front-End%20Web%20Developer%20(1).pdf)
- - [LinkedIn: Advanced CSS layouts & Grid](https://github.com/Peter-Easterbrook/Repository/blob/master/CertificateOfCompletion_CSS_%20Advanced%20Layouts%20with%20Grid.pdf)
+ - [LinkedIn: Front End Developer](https://user-images.githubusercontent.com/59874288/98725767-dd031c80-2395-11eb-8e37-26cd38c809d6.png)
+ - [LinkedIn: Advanced CSS layouts & Grid](https://user-images.githubusercontent.com/59874288/98726049-4125e080-2396-11eb-92e3-74ab30345352.png)
  - [freeCodeCamp: JS Algorithms & Data Structures](https://www.freecodecamp.org/certification/fcc37ed5d52-0362-42c4-a9a0-fadf438edd30/javascript-algorithms-and-data-structures)
  - [freeCodeCamp: Responsive Web Design](https://www.freecodecamp.org/certification/fcc37ed5d52-0362-42c4-a9a0-fadf438edd30/responsive-web-design)
  - [freeCodeCamp: Front End Libraries](https://www.freecodecamp.org/certification/fcc37ed5d52-0362-42c4-a9a0-fadf438edd30/front-end-libraries)
  - [Google: IT Support Specialization](https://www.youracclaim.com/badges/62085c98-af57-4278-b0b4-6586cf42ff0d/linked_in_profile)
  - [Google: Python Crash Course](https://www.coursera.org/account/accomplishments/certificate/VN3EKPL25CN7)
  - [Udemy: Complete Guide to React](https://www.udemy.com/certificate/UC-8a31bb56-f477-4fe6-bb31-6677a84652ed/)
- - [Flavio Copes: JavaScript Bootcamp](https://github.com/Peter-Easterbrook/Repository/blob/master/copes-jsbootcamp.pdf)
  - [Udemy: React Native - The Practical Guide 2020 Edition](https://www.udemy.com/certificate/UC-d68570d4-3b56-43c3-97d0-71d8524b56d6/)
+ - [Flavio Copes: JavaScript Bootcamp](https://user-images.githubusercontent.com/59874288/98723328-81835f80-2392-11eb-9ec4-70d1aa7de13d.png)
+
 
