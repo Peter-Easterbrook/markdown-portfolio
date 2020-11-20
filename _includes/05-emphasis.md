@@ -4,7 +4,7 @@
 
 ## Skills
 - HTML & Pug
-- CSS, Bootstrap 4, Sass & Tailwind
+- CSS, Bootstrap 4, Materialize, Sass & Tailwind
 - JavaScript
 - Python
 - Responsive Layout
