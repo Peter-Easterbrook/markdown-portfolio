@@ -29,8 +29,9 @@
  - [freeCodeCamp: Front End Libraries](https://www.freecodecamp.org/certification/fcc37ed5d52-0362-42c4-a9a0-fadf438edd30/front-end-libraries)
  - [Google: IT Support Specialization](https://www.youracclaim.com/badges/62085c98-af57-4278-b0b4-6586cf42ff0d/linked_in_profile)
  - [Google: Python Crash Course](https://www.coursera.org/account/accomplishments/certificate/VN3EKPL25CN7)
- - [Udemy: Complete Guide to React](https://www.udemy.com/certificate/UC-8a31bb56-f477-4fe6-bb31-6677a84652ed/)
- - [Udemy: React Native - The Practical Guide 2020 Edition](https://www.udemy.com/certificate/UC-d68570d4-3b56-43c3-97d0-71d8524b56d6/)
+ - [Udemy: Complete Guide to React](https://udemy-certificate.s3.amazonaws.com/pdf/UC-8a31bb56-f477-4fe6-bb31-6677a84652ed.pdf)
+ - [Udemy: React Native - The Practical Guide 2020 Edition](https://udemy-certificate.s3.amazonaws.com/pdf/UC-d68570d4-3b56-43c3-97d0-71d8524b56d6.pdf)
  - [Flavio Copes: JavaScript Bootcamp](https://user-images.githubusercontent.com/59874288/98723328-81835f80-2392-11eb-9ec4-70d1aa7de13d.png)
+ - [Udemy: VueJS 2 with Firebase](https://udemy-certificate.s3.amazonaws.com/pdf/UC-00c3fdd8-f902-4b5c-adea-05075390bd1c.pdf)
 
 
