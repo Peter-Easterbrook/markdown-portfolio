@@ -34,5 +34,28 @@
  - [Flavio Copes: JavaScript Bootcamp](https://user-images.githubusercontent.com/59874288/98723328-81835f80-2392-11eb-9ec4-70d1aa7de13d.png)
  - [Udemy: VueJS 2 with Firebase](https://udemy-certificate.s3.amazonaws.com/pdf/UC-00c3fdd8-f902-4b5c-adea-05075390bd1c.pdf)
  - [Udemy: VueJS 3 - The Complete Guide w/ Router, Vuex, Composition API](https://udemy-certificate.s3.amazonaws.com/pdf/UC-15c9b0f6-ac26-45ef-b675-ae03a817d3d7.pdf)
+ 
+## Here is a list of my web projects:
+- [Robert Crumb Tribute Page](http://www.easterbrook.at/crumb/index.html)
+- [A Survey Form](http://www.easterbrook.at/survey/index.html)
+- [Technical Document Page](http://www.easterbrook.at/technical_doc/index.html)
+- [Italki Landing Page](http://www.easterbrook.at/italki/index.html)
+- [freeCodeCamp Challenge Page](http://www.easterbrook.at/portfolio/index.html)
+- [Easterbrook Training](http://www.easterbrook.at/)
+- [One Step Web Development](http://www.easterbrook.at/webdev/webdev.html)
+- [React Markdown Previewer App](https://codepen.io/PeterEasterbrook/pen/PoZbgmj)
+- [React Random Quote Machine App](https://quote-machine-nine.vercel.app/)
+- [React Drum Machine App](https://drum-machine-alpha.vercel.app/)
+- [React Calculator App](https://react-calc-six.vercel.app/)
+- [React Burger Builder App](https://react-my-burger-5d9a7.web.app/)
+- [Vue Expense Tracker App](https://vue-bill-tracker.vercel.app/)
+- [Vue Mosaic Painter App](https://vue-mosaic.vercel.app/)
+- [Ionic Weight Tracker App](https://ionicweight.vercel.app/home)
+- [Redux Calculator App](https://udemy-react-assignment-12.vercel.app/)
+- React Native + Expo Guess the Number Game App
+- React Native + Expo Meal Recipe App
+- React Native + Expo Shop App
+- React Native + Expo Photo Location App
+
 
 
