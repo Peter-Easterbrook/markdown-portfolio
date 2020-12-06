@@ -33,5 +33,6 @@
  - [Udemy: React Native - The Practical Guide 2020 Edition](https://udemy-certificate.s3.amazonaws.com/pdf/UC-d68570d4-3b56-43c3-97d0-71d8524b56d6.pdf)
  - [Flavio Copes: JavaScript Bootcamp](https://user-images.githubusercontent.com/59874288/98723328-81835f80-2392-11eb-9ec4-70d1aa7de13d.png)
  - [Udemy: VueJS 2 with Firebase](https://udemy-certificate.s3.amazonaws.com/pdf/UC-00c3fdd8-f902-4b5c-adea-05075390bd1c.pdf)
+ - [Udemy: VueJS 3 - The Complete Guide w/ Router, Vuex, Composition API](https://udemy-certificate.s3.amazonaws.com/pdf/UC-15c9b0f6-ac26-45ef-b675-ae03a817d3d7.pdf)
 
 
