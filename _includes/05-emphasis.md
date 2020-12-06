@@ -10,7 +10,7 @@
 - Responsive Layout
 - Web Design UX
 - Accessibility
-- Git
+- Git (inc. CI/CD)
 - Node.js
 - React.js (Redux, Saga & Hooks)
 - React Native + Expo
