@@ -34,6 +34,7 @@
  - [Flavio Copes: JavaScript Bootcamp](https://user-images.githubusercontent.com/59874288/98723328-81835f80-2392-11eb-9ec4-70d1aa7de13d.png)
  - [Udemy: VueJS 2 with Firebase](https://udemy-certificate.s3.amazonaws.com/pdf/UC-00c3fdd8-f902-4b5c-adea-05075390bd1c.pdf)
  - [Udemy: VueJS 3 - The Complete Guide w/ Router, Vuex, Composition API](https://udemy-certificate.s3.amazonaws.com/pdf/UC-15c9b0f6-ac26-45ef-b675-ae03a817d3d7.pdf)
+ - [Udemy: 50Days50Projects - HTML, CSS & JavaScript](https://udemy-certificate.s3.amazonaws.com/pdf/UC-387b936b-faab-4d50-a69d-b127f096ef8f.pdf)
  
 ## Here is a list of my web projects:
 - [Robert Crumb Tribute Page](http://www.easterbrook.at/crumb/index.html)
@@ -56,6 +57,14 @@
 - React Native + Expo Meal Recipe App
 - React Native + Expo Shop App
 - React Native + Expo Photo Location App
+- [Vue Monster Slayer Game](https://vue-monster-game-chi.vercel.app/)
+- [Vue WebDev Recipe App](https://webdev-smoothies.web.app/#/)
+- [Vue3 Address Book App](https://person-data-app.vercel.app/)
+- [Vue3 Chat App](https://vue-chat-dbb88.web.app/)
+- [Vue3 Opinion App](https://vue-http-demo-56236.firebaseapp.com/)
+- [Vuex Shop App](https://vue-vuex.vercel.app)
+- [Vue3 Find a Dev Coach App](https://vue-find-a-coach-app.web.app/coaches)
+- [50 Projects in 50 Days: HTML, CSS & JavaScript](https://peter-easterbrook.github.io/50Projects50Days)
 
 
 
