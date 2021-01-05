@@ -35,6 +35,7 @@
  - [Udemy: VueJS 2 + 3 with Firebase](https://udemy-certificate.s3.amazonaws.com/pdf/UC-00c3fdd8-f902-4b5c-adea-05075390bd1c.pdf)
  - [Udemy: VueJS 3 - The Complete Guide w/ Router, Vuex, Composition API](https://udemy-certificate.s3.amazonaws.com/pdf/UC-15c9b0f6-ac26-45ef-b675-ae03a817d3d7.pdf)
  - [Udemy: 50Days50Projects - HTML, CSS & JavaScript](https://udemy-certificate.s3.amazonaws.com/pdf/UC-387b936b-faab-4d50-a69d-b127f096ef8f.pdf)
+ - [Udemy: Data Visualisations with D§ & Firebase](https://udemy-certificate.s3.amazonaws.com/pdf/UC-15c36571-5907-461d-b229-cc62978f1246.pdf)
  
 ## Here is a list of my web projects:
 - [Robert Crumb Tribute Page](http://www.easterbrook.at/crumb/index.html)
@@ -68,6 +69,10 @@
 - [Vue WebDev Blog](https://vue-firebase-webdev-blog.firebaseapp.com/)
 - [Vue Music Playlist App](https://vue-webdev-music.firebaseapp.com/)
 - [50 Projects in 50 Days: HTML, CSS & JavaScript](https://peter-easterbrook.github.io/50Projects50Days)
+- [D3 Pie Chart](https://d3-pie-chart.vercel.app/)
+- [D3 Fitness Tracker](https://d3-webdev-fitness.vercel.app/)
+- [D3 Data Hierarchy](https://d3-data-heirarchy.vercel.app/)
+- [D3 Tree Diagram](https://d3-tree-diagram.vercel.app/)
 
 
 
