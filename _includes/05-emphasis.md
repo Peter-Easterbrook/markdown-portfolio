@@ -36,7 +36,7 @@
  - [Udemy: VueJS 2 + 3 with Firebase](https://udemy-certificate.s3.amazonaws.com/pdf/UC-00c3fdd8-f902-4b5c-adea-05075390bd1c.pdf)
  - [Udemy: VueJS 3 - The Complete Guide w/ Router, Vuex, Composition API](https://udemy-certificate.s3.amazonaws.com/pdf/UC-15c9b0f6-ac26-45ef-b675-ae03a817d3d7.pdf)
  - [Udemy: 50Days50Projects - HTML, CSS & JavaScript](https://udemy-certificate.s3.amazonaws.com/pdf/UC-387b936b-faab-4d50-a69d-b127f096ef8f.pdf)
- - [Udemy: Data Visualisations with D§ & Firebase](https://udemy-certificate.s3.amazonaws.com/pdf/UC-15c36571-5907-461d-b229-cc62978f1246.pdf)
+ - [Udemy: Data Visualisations with D3 & Firebase](https://udemy-certificate.s3.amazonaws.com/pdf/UC-15c36571-5907-461d-b229-cc62978f1246.pdf)
  
 ## Here is a list of my web projects:
 - [Robert Crumb Tribute Page](http://www.easterbrook.at/crumb/index.html)
