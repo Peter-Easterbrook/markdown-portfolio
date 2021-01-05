@@ -20,6 +20,7 @@
 - WebRTC
 - Webpack
 - Firebase
+- D3.JS
 
 ## Qualifications
  - [LinkedIn: Front End Developer](https://user-images.githubusercontent.com/59874288/98725767-dd031c80-2395-11eb-8e37-26cd38c809d6.png)
