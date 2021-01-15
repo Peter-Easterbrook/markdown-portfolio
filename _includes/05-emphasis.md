@@ -38,7 +38,7 @@
  - [Udemy: VueJS 3 - The Complete Guide w/ Router, Vuex, Composition API](https://udemy-certificate.s3.amazonaws.com/pdf/UC-15c9b0f6-ac26-45ef-b675-ae03a817d3d7.pdf)
  - [Udemy: 50Days50Projects - HTML, CSS & JavaScript](https://udemy-certificate.s3.amazonaws.com/pdf/UC-387b936b-faab-4d50-a69d-b127f096ef8f.pdf)
  - [Udemy: Data Visualisations with D3 & Firebase](https://udemy-certificate.s3.amazonaws.com/pdf/UC-15c36571-5907-461d-b229-cc62978f1246.pdf)
- - [Udemy: Electron & React.JS - Build a Native CHat App](https://udemy-certificate.s3.amazonaws.com/pdf/UC-1cac8c0f-ff62-492b-8e65-010a38d13d88.pdf)
+ - [Udemy: Electron & React.JS - Build a Native Chat App](https://udemy-certificate.s3.amazonaws.com/pdf/UC-1cac8c0f-ff62-492b-8e65-010a38d13d88.pdf)
  
 ## Here is a list of my web projects:
 - [Robert Crumb Tribute Page](http://www.easterbrook.at/crumb/index.html)
