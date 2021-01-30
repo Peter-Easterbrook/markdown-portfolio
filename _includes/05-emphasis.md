@@ -39,6 +39,9 @@
  - [Udemy: 50Days50Projects - HTML, CSS & JavaScript](https://udemy-certificate.s3.amazonaws.com/pdf/UC-387b936b-faab-4d50-a69d-b127f096ef8f.pdf)
  - [Udemy: Data Visualisations with D3 & Firebase](https://udemy-certificate.s3.amazonaws.com/pdf/UC-15c36571-5907-461d-b229-cc62978f1246.pdf)
  - [Udemy: Electron & React.JS - Build a Native Chat App](https://udemy-certificate.s3.amazonaws.com/pdf/UC-1cac8c0f-ff62-492b-8e65-010a38d13d88.pdf)
+ - [Mosh Academy: Mastering React](https://user-images.githubusercontent.com/59874288/105337528-d0434600-5bda-11eb-82e7-f84ab0a2717f.png)
+ - [LinkedIn: Become a REact Developer](https://user-images.githubusercontent.com/59874288/106370034-dc57a200-6356-11eb-8a9b-74ca27006112.png)
+ - [Udemy: Modern JavaScript from the Beginning](https://udemy-certificate.s3.amazonaws.com/pdf/UC-cf1ebbc4-af39-4839-817c-5a86326e326c.pdf)
  
 ## Here is a list of my web projects:
 - [Robert Crumb Tribute Page](https://crumb.vercel.app/)
