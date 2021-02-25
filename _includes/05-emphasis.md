@@ -42,7 +42,7 @@
  - [Mastering React: Mosh Academy](https://user-images.githubusercontent.com/59874288/105337528-d0434600-5bda-11eb-82e7-f84ab0a2717f.png)
  - [React Developer Training: LinkedIn](https://user-images.githubusercontent.com/59874288/106370034-dc57a200-6356-11eb-8a9b-74ca27006112.png)
  - [Modern JavaScript from the Beginning: Udemy](https://udemy-certificate.s3.amazonaws.com/pdf/UC-cf1ebbc4-af39-4839-817c-5a86326e326c.pdf)
- - [SQL Essential Training - LinkedIn](https://user-images.githubusercontent.com/59874288/109110660-d2e40e80-7737-11eb-9c1f-b17f0720d6aa.png)
+ - [SQL Essential Training: LinkedIn](https://user-images.githubusercontent.com/59874288/109110660-d2e40e80-7737-11eb-9c1f-b17f0720d6aa.png)
  
 ## Here is a list of my web projects:
 - [Robert Crumb Tribute Page](https://crumb.vercel.app/)
